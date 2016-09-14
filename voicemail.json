@@ -1,0 +1,18 @@
+[
+    {
+        "action": "talk",
+        "text": "Please leave a message after the beep and we will get back to you"
+    },
+    {
+        "action": "record",
+        "eventUrl": [
+            "http://requestb.in/1gsisjc1"
+        ],
+        "endOnSilence": "3",
+        "beepStart": "true"
+    },
+    {
+        "action": "talk",
+        "text": "Thank you for your message. Goodbye"
+    }
+]
